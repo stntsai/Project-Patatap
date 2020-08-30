@@ -13,5 +13,5 @@ Built with:
 	
 Acknowledgments:
 
-	This project was built by following courses of Colt Steele on Udemy
+	This project was built by following the courses of Colt Steele on Udemy
 	
