@@ -8,8 +8,8 @@ How to play:
 
 Built with:
 
-	Javascript(paperscript)/ HTML/ CSS
-	[HOWLER.js](https://howlerjs.com/)
+	Javascript(paperscript)/ HOWLER.js/ HTML/ CSS/ 
+	
 	
 Acknowledgments:
 
